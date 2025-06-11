@@ -1,0 +1,5 @@
+# AODSK S-200
+
+lsusb result: 
+
+ID 2485:4327 DREAM S.A.S. 5704PIA-DK
